@@ -23,11 +23,6 @@
 - 🏅 CodeVerse Finalist  
 - 👨‍🏫 Mentored 200+ students (DSA)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisree06&show_icons=true&theme=radical" />
-</p>
-
 ### 📫 Connect
 📧 abhisree0419@gmail.com  
 💼 linkedin.com/in/abhisree-gandhe
