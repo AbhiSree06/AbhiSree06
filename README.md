@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Sree</h1>
-<h3 align="center">💻 Backend Developer | DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">💻 Backend Developer | AI Enthusiast | Problem Solver</h3>
 
 ### 🚀 About Me
 - 🎓 B.Tech IT @ VNR VJIET  
